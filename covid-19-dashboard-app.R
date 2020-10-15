@@ -1,3 +1,9 @@
+#########################################################
+#                                                       #
+# CODE WRITTEN BY FLORIANNE VERKROOST                   #
+#                                                       #
+#########################################################
+
 # Load libraries
 library(data.table)
 library(dplyr)
