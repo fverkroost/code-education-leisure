@@ -1,3 +1,12 @@
+#########################################
+#                                       #
+# CODE WRITTEN BY FLORIANNE VERKROOST   #
+#                                       #
+# PLEASE REFER TO REPOSITORY LICENSE    #
+# FOR PERMISSION AND COPYRIGHT NOTICES  #
+#                                       #
+#########################################
+
 # -----------------------------------------------------------------------
 # Loading data and packages
 # -----------------------------------------------------------------------
