@@ -1,8 +1,13 @@
-#--------------------------------------------------------------------------------
-# This code was written by Florianne Verkroost.
-# Please do not distribute without the author's permission.
-# Function double_axis_graph obtained from http://stackoverflow.com/questions/25727596/function-to-build-double-y-axis-graph-in-ggplot2
-#--------------------------------------------------------------------------------
+#########################################
+#                                       #
+# CODE WRITTEN BY FLORIANNE VERKROOST   #
+#                                       #
+# PLEASE REFER TO REPOSITORY LICENSE    #
+# FOR PERMISSION AND COPYRIGHT NOTICES  #
+#                                       #
+#########################################
+
+# Note: Function "double_axis_graph" was obtained from http://stackoverflow.com/questions/25727596/function-to-build-double-y-axis-graph-in-ggplot2.
 
 library(ggplot2) # load ggplot2 package into R
 library(stats) # load ggplot2 package into R
