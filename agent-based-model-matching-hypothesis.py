@@ -1,7 +1,11 @@
 '''
-This code was written by Florianne Verkroost.
-This code implements a simplified version of the agent-based model described in Kalick, S. M., & Hamilton III, T. E. (1986) "The matching hypothesis reexamined". Journal of Personality and Social Psychology, 51(4):673-682.
-This code is NOT intended to replicate the paper or make any inferences whatsoever, but merely uses the model described in the paper as a "case study" for the implementation of an agent-based model using Mesa in Python.
+This code was written by Florianne Verkroost. This code implements a simplified version 
+of the agent-based model described in Kalick, S. M., & Hamilton III, T. E. (1986) 
+"The matching hypothesis reexamined". Journal of Personality and Social Psychology, 
+51(4):673-682. This code is NOT intended to replicate the paper or make any inferences 
+(neither on its own nor in any relation to the paper) whatsoever, but merely uses the 
+model described in the paper as a "case study" for the implementation of an agent-based 
+model using Mesa in Python.
 '''
 
 
